@@ -123,12 +123,10 @@ ai-data-assistant-rag/
 ├── data/
 │   └── sample_dataset.csv
 │
-├── src/
-│   ├── main.py
-│   ├── utils.py
+├── notebook/
+│   ├── Code.ipynb
 │
 ├── README.md
-├── requirements.txt
 ```
 
 ---
